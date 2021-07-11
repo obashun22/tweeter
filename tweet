@@ -1,0 +1,3 @@
+#!/bin/sh
+
+open https://twitter.com/intent/tweet\?text=$1
